@@ -8,7 +8,7 @@ Cryptography is the science of protecting information by encoding it into a secu
 
 ## Requirements
 
-Latest version of [python](https://python.org) must be installed on your system. A secret key code must be generated using every characters from 0 to 9 and a to z which must be at least 39 characters of code. You can also use other symbols. The key code in the script must be modified manually for changing it. Code modification can be done just by replacing the code in the variable named 'keys'. We recommend you to use [visual code studio](https://code.visualstudio.com/) as the text editor for programming. Also install python in visual code studio from extension panel. Make sure you setup these requirements.
+Latest version of [python](https://python.org) must be installed on your system. A secret key code must be generated using every characters from 0 to 9 and a to z which must be at least 39 characters of code. You can also use other symbols. Code modification can be done just by replacing the code in the variable named 'keys'. We recommend you to use [visual code studio](https://code.visualstudio.com/) as the text editor for programming. Also install python in visual code studio from extension panel. Make sure you setup these requirements.
 
 
 ## Key code
